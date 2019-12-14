@@ -1,4 +1,4 @@
-# MotionDetection
+# Motion Detection
 <p>Motion Detection (with AForge.NET) - 2015 (C#)</p>
 <p>Motion Detection is a tool for Windows PCs that allow you to detect a movement in live camera.</p>
 <img src="MotionDetection.gif">
